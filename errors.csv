@@ -1,0 +1,21 @@
+hibakod,megnevezes,leiras
+01001,Nincs kommunikáció a DUT-tal,Az FCT nem tud kommunikációs kapcsolatot létrehozni a vizsgált egységgel
+02001,Tápfeszültség hiba,A mért tápfeszültség a megengedett tartományon kívül van
+03001,Áramfelvétel hiba,A DUT áramfelvétele nem felel meg az előírt határértéknek
+04001,CAN kommunikációs hiba,A CAN üzenetek küldése vagy fogadása sikertelen
+05001,LIN kommunikációs hiba,A LIN kommunikáció ellenőrzése sikertelen
+06001,Programozási hiba,A firmware írása nem fejeződött be sikeresen
+07001,Verifikációs hiba,A programozott tartalom visszaellenőrzése sikertelen
+08001,EEPROM olvasási hiba,A nem felejtő memória olvasása sikertelen
+09001,EEPROM írási hiba,A nem felejtő memória írása sikertelen
+10001,Bootloader hiba,A DUT nem lép a várt bootloader állapotba
+11001,Digitális bemeneti hiba,Egy digitális bemenet állapota eltér a várttól
+12001,Digitális kimeneti hiba,Egy digitális kimenet állapota eltér a várttól
+13001,Analóg mérési hiba,Egy analóg jel mért értéke határértéken kívüli
+14001,Szenzorjel hiba,A vizsgált szenzorjel érvénytelen vagy hiányzik
+15001,Relékapcsolási hiba,A relé kapcsolása vagy visszajelzése nem megfelelő
+16001,Fixture kontaktushiba,A tesztfixtúra elektromos érintkezése nem megfelelő
+17001,Azonosító olvasási hiba,A sorozatszám vagy termékazonosító nem olvasható
+18001,Cybersecurity teszthiba,A biztonsági ellenőrzés sikertelen
+19001,SecOC szinkronizációs hiba,A biztonságos kommunikáció szinkronizációja sikertelen
+20001,Tesztidőtúllépés,Egy FCT tesztlépés túllépte a megengedett időt

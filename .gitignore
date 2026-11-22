@@ -1,0 +1,7 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+settings.json
+Napi_mentesek/
+Kiesok/
